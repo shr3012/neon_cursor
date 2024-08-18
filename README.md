@@ -8,7 +8,7 @@ This project creates a smooth mouse trail animation effect using HTML5 Canvas an
 
 - **Real-time mouse tracking:** The trail follows the mouse in real-time as it moves across the screen.
 - **Smooth fading effect:** The trail smoothly fades away as the mouse continues to move, creating a visually appealing animation.
-- **Customizable:** You can easily modify the trail length, color, and fading effect.
+
 
 ## Deployment
 
