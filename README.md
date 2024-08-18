@@ -15,6 +15,6 @@ This project creates a smooth mouse trail animation effect using HTML5 Canvas an
 To deploy this project run
 
 ```bash
-  git clone https://github.com/yourusername/ascii-racer.git
+  [git clone https://github.com/shr3012/neon_cursor.git)
 ```
 
